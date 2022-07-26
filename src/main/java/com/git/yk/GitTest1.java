@@ -10,5 +10,6 @@ public class GitTest1 {
         System.out.println("dev");
         System.out.println(" Push dev");
         System.out.println("Push master");
+        System.out.println("Pull test");
     }
 }
